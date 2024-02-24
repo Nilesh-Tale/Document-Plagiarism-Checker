@@ -1,0 +1,5 @@
+I was looking for other answers.
+
+
+ 
+Only Popen allows multiple async calls. 

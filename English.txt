@@ -1,0 +1,4 @@
+Google Translate is a multilingual neural machine translation assistance
+Developed by Google to translate text, documents and websites from one language to different.
+It has a website connection, a mobile app for Android and iOS, and a
+Provides APIs that assist developers to construct browser add-on and software applications.

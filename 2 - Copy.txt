@@ -1,0 +1,3 @@
+I was looking for all the other answers.
+They all wait for the execution to finish only then you can call that file again. 
+Only Popen allows multiple async calls. 

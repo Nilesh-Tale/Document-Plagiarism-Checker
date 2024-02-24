@@ -1,0 +1,98 @@
+ 
+Ginseng is the root of plants in the genus Panax, such as Korean ginseng, South China ginseng, and 
+American ginseng, typically characterized by the presence of ginsenosides and gintonin5
+ 
+ 
+Here is a "one
+-
+line" solution like you are seeking....
+ 
+ 
+It allows yo
+u to select multiple files from a dialog box and will print the list of files as a list. To be safe 
+you should check to make sure the OK button was
+ 
+ 
+Ginseng is the root of plants in the genus Panax, such as Korean ginseng, South China ginseng, and 
+American ginseng, typically characterized by the presence of ginsenosides and gintonin5
+ 
+ 
+Here is a "one
+-
+line" solution like you are seeking....
+ 
+ 
+It allows yo
+u to select multiple files from a dialog box and will print the list of files as a list. To be safe 
+you should check to make sure the OK button was
+ 
+ 
+Ginseng is the root of plants in the genus Panax, such as Korean ginseng, South China ginseng, and 
+American ginseng, typically characterized by the presence of ginsenosides and gintonin5
+ 
+ 
+Here is a "one
+-
+line" solution like you are seeking....
+ 
+ 
+It allows yo
+u to select multiple files from a dialog box and will print the list of files as a list. To be safe 
+you should check to make sure the OK button was
+ 
+ 
+Ginseng is the root of plants in the genus Panax, such as Korean ginseng, South China ginseng, and 
+American ginseng, typically characterized by the presence of ginsenosides and gintonin5
+ 
+ 
+Here is a "one
+-
+line" solution like you are seeking....
+ 
+ 
+It allows yo
+u to select multiple files from a dialog box and will print the list of files as a list. To be safe 
+you should check to make sure the OK button was
+ 
+ 
+Ginseng is the root of plants in the genus Panax, such as Korean ginseng, South China ginseng, and 
+American ginseng, typically characterized by the presence of ginsenosides and gintonin5
+ 
+ 
+Here is a "one
+-
+line" solution like you are seeking....
+ 
+ 
+It allows yo
+u to select multiple files from a dialog box and will print the list of files as a list. To be safe 
+you should check to make sure the OK button was
+ 
+Exactly I was looking for. All the other answers ` import secondary exec(open('secondary.py').read()) 
+os.sys
+tem('python secondary.py') call(["python", "secondary.py"]) ` they don't allow creating 
+multiple instances of the secondary python file at the same time. They all wait for the execution to 
+finish only then you can call that file again. Only Popen allows mu
+ltiple async calls. Thanks again.
+ 
+ 
+Ginseng is the root of plants in the genus Panax, such as Korean ginseng, South China ginseng, and 
+American ginseng, typically characterized by the presence of ginsenosides and gintonin5
+ 
+ 
+Here is a "one
+-
+line" solution like you are seeking....
+ 
+ 
+It allows yo
+u to select multiple files from a dialog box and will print the list of files as a list. To be safe 
+you should check to make sure the OK button was
+ 
+Exactly I was looking for. All the other answers ` import secondary exec(open('secondary.py').read()) 
+os.sys
+tem('python secondary.py') call(["python", "secondary.py"]) ` they don't allow creating 
+multiple instances of the secondary python file at the same time. They all wait for the execution to 
+finish only then you can call that file again. Only Popen allows mu
+ltiple async calls. Thanks again.
+ 
